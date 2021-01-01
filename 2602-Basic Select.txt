@@ -1,0 +1,1 @@
+Select customers.name from customers where customers.state = 'RS';

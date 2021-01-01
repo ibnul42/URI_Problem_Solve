@@ -1,0 +1,1 @@
+Select products.id, products.name from products where price<10 or price>100;

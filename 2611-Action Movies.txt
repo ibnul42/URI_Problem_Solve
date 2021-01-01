@@ -1,0 +1,1 @@
+Select movies.id,movies.name from movies,genres where genres.description='Action' and genres.id=movies.id_genres;
